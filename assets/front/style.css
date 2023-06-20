@@ -1,0 +1,19 @@
+.film picture img{
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+}
+.wj-films{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.wj-films article{
+    margin: 20px 20px;
+    padding: 20px 20px;
+    width: 20%;
+    text-align: center;
+    background-color: antiquewhite;
+    justify-content: space-around;
+}
